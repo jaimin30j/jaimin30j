@@ -96,7 +96,6 @@
 ## 📫 Contact Me
 
 📧 Email: jaimin30j@gmail.com  
-📞 Phone: +971 56 548 6595  
 🔗 LinkedIn: https://linkedin.com/in/jaimin-patel-82405265  
 
 ---
