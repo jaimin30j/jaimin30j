@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Jaiminkumar Patel</h1>
-<h3 align="center">🚀 Adobe Certified Magento / Adobe Commerce Developer</h3>
+<h3 align="center">🚀 Sr. Magento & Adobe Certified Developer | Hyvä | Full Stack PHP | GraphQL | React.js</h3>
 
 <p align="center">
   📍 Dubai, UAE • ⚡ 10+ Years Experience • 💼 Immediate Joiner • 🌍 Open to Remote
@@ -32,7 +32,7 @@
 
 🔧 I specialize in:
 - Magento 2, Adobe Commerce (Enterprise), Adobe Commerce Cloud, Backend Architecture & Custom Modules  
-- Hyvä Theme (Alpine.js + Tailwind CSS)  
+- Hyvä Theme (Alpine.js + Tailwind CSS), React.js  
 - Performance Optimization (Redis, Varnish, Fastly, Elasticsearch)  
 - API Integrations (Payment, ERP, Shipping, GraphQL)  
 - Docker, CI/CD & Cloud deployments  
